@@ -4,7 +4,7 @@
 
 ## Genèse
 
-Il arrive qu'on se retrouve dans une situation où, comme on est des bons gars, on a mis un mot de passe de ouf sur le compte root (36 caractères alphanumériques, spéciaux, etc ... ) et que malheureusement on s'est coupé l'herbe sous le pied en perdant l'accès ssh via une cagade sshd ou iptables ;-) . Il ne reste plus que l'accès via console distante...qui est évidemment en QWERTY ! Si t'as un clavier sous la main ça va aller, sinon c'est parti pour de longues minutes à faire ta tête de Gollum, à tatôner, corriger, réessayer... 
+Il arrive qu'on se retrouve dans une situation où, comme on est des bons gars, on a mis un mot de passe de ouf sur le compte root (36 caractères alphanumériques, spéciaux, etc ... ) et que malheureusement on s'est coupé l'herbe sous le pied en perdant l'accès ssh via une cagade sshd ou iptables ;-) . Il ne reste plus que l'accès via console distante...qui est évidemment en QWERTY ! Si t'as un clavier sous la main ça va aller, sinon c'est parti pour de longues minutes à faire ta tête de Gollum, à tâtonner, corriger, réessayer... 
 
 gif gollum
 
