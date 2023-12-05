@@ -16,3 +16,7 @@ Un vieux [post](https://linuxtrack.net/viewtopic.php?id=1380) de 2015 (bash + se
 Je voulais le faire en Powershell, mais j'ai pas réussi... si tu vois comment faire, une PR sera bienvenue !
 
 A voir pour du QWERTZ aussi peut-être, mais jamais eu le souci...
+
+## Exemple
+
+![](https://github.com/6r3g/atoq/blob/main/atoq-example.gif)
