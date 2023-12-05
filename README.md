@@ -8,7 +8,7 @@ Il arrive qu'on se retrouve dans une situation où, comme on est des bons gars, 
 
 Il ne reste plus que l'accès via console distante...qui est évidemment en QWERTY ! Si t'as un clavier sous la main ça va aller, sinon c'est parti pour de longues minutes à faire ta tête de Gollum, à tâtonner, corriger, réessayer... 
 
-gif gollum
+![](https://github.com/6r3g/atoq/blob/main/gollum-atoq.gif)
 
 J'ai pas réussi à trouver un tool sur ce souci spécifique, qu'on est certainement nombreux à avoir expérimenté pourtant. 
 Un vieux [post](https://linuxtrack.net/viewtopic.php?id=1380) de 2015 (bash + sed) m'a sorti des ronces pour ce coup si, mais ne gère pas tout les caractères.
