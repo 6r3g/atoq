@@ -14,4 +14,5 @@ J'ai pas réussi à trouver un tool sur ce souci spécifique, qu'on est certaine
 Un vieux [post](https://linuxtrack.net/viewtopic.php?id=1380) de 2015 (bash + sed) m'a sorti des ronces pour ce coup si, mais ne gère pas tout les caractères.
 
 Je voulais le faire en Powershell, mais j'ai pas réussi... si tu vois comment faire, une PR sera bienvenue !
+
 A voir pour du QWERTZ aussi peut-être, mais jamais eu le souci...
