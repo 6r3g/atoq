@@ -19,4 +19,4 @@ A voir pour du QWERTZ aussi peut-être, mais jamais eu le souci...
 
 ## Exemple
 
-![](https://github.com/6r3g/atoq/blob/main/atoq-example.gif)
+![](https://github.com/6r3g/atoq/blob/main/atoq_example.gif)
