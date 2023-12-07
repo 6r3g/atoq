@@ -8,15 +8,13 @@ Il arrive qu'on se retrouve dans une situation où, comme on est des bons gars, 
 
 Il ne reste plus que l'accès via console distante...qui est évidemment en QWERTY ! Si t'as un clavier sous la main ça va aller, sinon c'est parti pour de longues minutes à faire ta tête de Gollum, à tâtonner, corriger, réessayer... 
 
-![](https://github.com/6r3g/atoq/blob/main/gollum-atoq.gif)
+![](https://github.com/6r3g/atoq/blob/main/gif/gollum-atoq.gif)
 
-J'ai pas réussi à trouver un tool sur ce souci spécifique, qu'on est certainement nombreux à avoir expérimenté pourtant. 
+J'ai pas réussi à trouver un tool sur ce souci spécifique, qu'on est certainement nombreux à avoir expérimenté. 
+
 Un vieux [post](https://linuxtrack.net/viewtopic.php?id=1380) de 2015 (bash + sed) m'a sorti des ronces pour ce coup si, mais ne gère pas tout les caractères.
 
-Je voulais le faire en Powershell, mais j'ai pas réussi... si tu vois comment faire, une PR sera bienvenue !
-
-A voir pour du QWERTZ aussi peut-être, mais jamais eu le souci...
 
 ## Exemple
 
-![](https://github.com/6r3g/atoq/blob/main/atoq_example.gif)
+![](https://github.com/6r3g/atoq/blob/main/gif/atoq_example.gif)
